@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "pacer.h": "c",
+        "font3x5_1.h": "c"
+    }
+}

@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 55e40c2f4ac89a1eb28b342d7eeaef2441f87e20 Jack Willson <jwi182@uclive.ac.nz> 1696978004 +1300	commit (initial): add README
+55e40c2f4ac89a1eb28b342d7eeaef2441f87e20 ad04961be4cf1d950ccd47cca62979b4b949faaf Jack Willson <jwi182@uclive.ac.nz> 1696978531 +1300	commit: first commit
+ad04961be4cf1d950ccd47cca62979b4b949faaf 67ca38d3a72f8bf4595495b9425ab05a32373b64 Jack Willson <jwi182@uclive.ac.nz> 1696978612 +1300	commit: first commit make
+67ca38d3a72f8bf4595495b9425ab05a32373b64 975ae2f58ae48920654f63527edf4498005cd5e6 Jack Willson <jwi182@uclive.ac.nz> 1696985984 +1300	commit: make files
+975ae2f58ae48920654f63527edf4498005cd5e6 7360139a3c818f4223f92c817b61768336664849 Jack Willson <jwi182@uclive.ac.nz> 1696986419 +1300	pull: Merge made by the 'ort' strategy.
+7360139a3c818f4223f92c817b61768336664849 852859b8912c54f88ee1a82d725baf7db8b5fdc1 Jack Willson <jwi182@uclive.ac.nz> 1696987051 +1300	pull: Fast-forward
+852859b8912c54f88ee1a82d725baf7db8b5fdc1 cb630a7388268a011941ea2ec0eaed632ace1e70 Jack Willson <jwi182@uclive.ac.nz> 1696987292 +1300	commit: make files h
+cb630a7388268a011941ea2ec0eaed632ace1e70 34c92473b295a44214f472cf17937d3bbceb1883 Jack Willson <jwi182@uclive.ac.nz> 1696990748 +1300	commit: start on main structure
+34c92473b295a44214f472cf17937d3bbceb1883 336b70877d6256143c1f83de088220cd3e4567c8 Jack Willson <jwi182@uclive.ac.nz> 1696993724 +1300	commit: first day 'press to start and nav push'
+336b70877d6256143c1f83de088220cd3e4567c8 725cf387332162f7e2dfeabf432cb72a4225f371 Jack <jack@Linux-AORUS.(none)> 1697011185 +1300	pull: Fast-forward
+725cf387332162f7e2dfeabf432cb72a4225f371 e014e10df035939a419f9dd0a8f2a801ea82e6db Jack Willson <jwi182@uclive.ac.nz> 1697016302 +1300	commit: start of player move func
+e014e10df035939a419f9dd0a8f2a801ea82e6db 7fca57a82cffda1af6bc107375880e8c1fc2841c Jack Willson <jwi182@uclive.ac.nz> 1697021676 +1300	commit: player init and moves with edge limits
+7fca57a82cffda1af6bc107375880e8c1fc2841c 3dbde118d6c950061b091bf5e96c9c6af753e3d6 Jack Willson <jwi182@uclive.ac.nz> 1697074342 +1300	commit: menu running then moving no balls
+3dbde118d6c950061b091bf5e96c9c6af753e3d6 9e83d74c23442ea6b709c62dcedffb8d2bdc12e4 Jack Willson <jwi182@uclive.ac.nz> 1697079319 +1300	commit: half way through ball
+9e83d74c23442ea6b709c62dcedffb8d2bdc12e4 b224c85cdf69736be5696a02ea4290722986a1c6 Jack Willson <jwi182@uclive.ac.nz> 1697439778 +1300	commit: rename ball and player files, more ball setup
+b224c85cdf69736be5696a02ea4290722986a1c6 942456db35494be787a269dc0c4dc89248c00b56 Jack Willson <jwi182@uclive.ac.nz> 1697447200 +1300	commit: balls shooting at individual rates
+942456db35494be787a269dc0c4dc89248c00b56 18a4b976d164ad3e61decad68376a88fa02c1c34 Jack Willson <jwi182@uclive.ac.nz> 1697580957 +1300	commit: got level switch working
+18a4b976d164ad3e61decad68376a88fa02c1c34 26a249aeb0acc4d9853c8ff00c75029422e20e85 Jack Willson <jwi182@uclive.ac.nz> 1697583213 +1300	pull: Fast-forward
+26a249aeb0acc4d9853c8ff00c75029422e20e85 fed2a85058928c8f8addcada958889cc2fe6fbb2 Jack Willson <jwi182@uclive.ac.nz> 1697585084 +1300	pull: Fast-forward
+fed2a85058928c8f8addcada958889cc2fe6fbb2 58046eabd62dedb2dc3d6a08a4d0a8e4ca33685b Jack Willson <jwi182@uclive.ac.nz> 1697587497 +1300	pull: Fast-forward
+58046eabd62dedb2dc3d6a08a4d0a8e4ca33685b 1b1cd36ef091eeb89b9f70b26f110db66a33be6d Jack Willson <jwi182@uclive.ac.nz> 1697588720 +1300	commit: ignore
+1b1cd36ef091eeb89b9f70b26f110db66a33be6d 1ae72d1f0c0463c86f6455d575f34ff0c0c89905 Jack Willson <jwi182@uclive.ac.nz> 1697588740 +1300	pull: Merge made by the 'ort' strategy.
+1ae72d1f0c0463c86f6455d575f34ff0c0c89905 5611a2dc4cd85e3f045f12ccb3cc9bac462afe06 Jack Willson <jwi182@uclive.ac.nz> 1697645551 +1300	commit: add lives param
+5611a2dc4cd85e3f045f12ccb3cc9bac462afe06 1b0da64808fa934131dfc0196f0cdb5bcf381ea6 Jack Willson <jwi182@uclive.ac.nz> 1697645633 +1300	commit: add lives decrease and decrease ticks size
+1b0da64808fa934131dfc0196f0cdb5bcf381ea6 012d15bc4bfb1b616e26e6e8473a1960a70708d8 Jack Willson <jwi182@uclive.ac.nz> 1697645739 +1300	commit: added memory reallocation, score, game over
+012d15bc4bfb1b616e26e6e8473a1960a70708d8 8f4ef3b2b5a291a67540a5734cd3a62f6a4f352c Jack Willson <jwi182@uclive.ac.nz> 1697679673 +1300	commit: clean up, add comments half, for loop clear array
+8f4ef3b2b5a291a67540a5734cd3a62f6a4f352c 58d5424f12bf9f4dbf720095071baa5da2b85162 Jack Willson <jwi182@uclive.ac.nz> 1697681015 +1300	commit: game.c comments
+58d5424f12bf9f4dbf720095071baa5da2b85162 492365894617feca3da7d9f278c0e73844c7f978 Jack Willson <jwi182@uclive.ac.nz> 1697681268 +1300	commit: comments to player
+492365894617feca3da7d9f278c0e73844c7f978 3e9b0d7930180819b106345aa81a7c4f0cb1e301 Jack Willson <jwi182@uclive.ac.nz> 1697681605 +1300	commit: comments
+3e9b0d7930180819b106345aa81a7c4f0cb1e301 cf252b0213fedc345bb794f2990ec843b7ef4bf3 Jack Willson <jwi182@uclive.ac.nz> 1697681918 +1300	pull: Fast-forward
+cf252b0213fedc345bb794f2990ec843b7ef4bf3 81559c2fb5420fd869e10173683666bfc0f0aa5b Jack Willson <jwi182@uclive.ac.nz> 1697682687 +1300	commit: final changes
